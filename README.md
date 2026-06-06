@@ -1,2 +1,1 @@
-# Grupo4-Contusi-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Hoy estuvimos investigando qué herramientas nos podrian servir para nuestro proyecto y descubrimos la pantalla de reloj de 7 segmentos. Hoy no aporte mucho al grupo, solo investigué cómo funcionaba y lo ayudé un poco a Nicolás a armar el PDF con las especificaciones, pero no mucho mas de eso.
