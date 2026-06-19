@@ -1,2 +1,1 @@
-# Grupo4-Contusi-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Hoy nos divimos las consignas para hacer del TP subido hoy. Thiago hace la fase 1, Santiago y yo la fase 2, y una vez terminado eso, le pasamos todo a Nico para que él lo suba al repositorio del grupo. Hoy con Santi, estuvimos haciendo la fase 2, donde él termino la primera consigna, mientras que yo intenté hacer las demás consignas mientras Santi hacía la primera, aunque no logré hacerlas :'v
